@@ -1,11 +1,14 @@
-### Hi there 👋🏿 Salvão ! 
+### Hi there 👋🏿 Salve ! 
 ### Pode me chamar de Thi ;) == You can call me Thi (;
 
-Gostou da foto de perfil? É o 1st de uma colação de NFTs que estou produzindo. Mais informações manda uma mensagem!
-<br> Like my profile pic? It is the 1st of a NFT Collection I'm producing. For more info, email me!
+Gostou da foto de perfil? É o 1st de uma colação de NFTs que estou produzindo.
+<br> Like my profile pic? It is the 1st of a NFT Collection I'm producing. 
 
 Irei documentar minha vida em código por aqui. 
 <br>I'm going to document my life through codes here.
+
+No momento estou aprendendo Solidity e JavaScript, e logo, vou fazer umas automações em Python :)
+<br>At the moment I'm learning Solidity and JavaScript. Soon, I will also make automations in Python.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thiago-souza-65a763202//)](https://www.linkedin.com/in/thiago-souza-65a763202/)

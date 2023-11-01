@@ -7,8 +7,8 @@ Gostou da foto de perfil? É o 1st de uma colação de NFTs que estou produzindo
 Irei documentar minha vida em código por aqui. 
 <br>I'm going to document my life through codes here.
 
-  No momento trabalho com Blockchain. Solidity e TypeScript. Em breve, hyperledger :)
-<br>At the moment I work with Blockchain. Solidity and TypeScript. Soon, Hyperledger.
+  No momento trabalho com Blockchain. Solidity, TypeScript e hyperledger :)
+<br>At the moment I work with Blockchain. Solidity, TypeScript and Hyperledger.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thiago-souza-65a763202//)](https://www.linkedin.com/in/thiago-souza-65a763202/)

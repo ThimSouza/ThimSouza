@@ -1,9 +1,6 @@
 ### Hi there 👋🏿 Salve ! 
 ### Pode me chamar de Thi ;) == You can call me Thi (;
 
-Gostou da foto de perfil? É o 1st de uma colação de NFTs que estou produzindo.
-<br> Like my profile pic? It is the 1st of a NFT Collection I'm producing. 
-
 Irei documentar minha vida em código por aqui. 
 <br>I'm going to document my life through codes here.
 
